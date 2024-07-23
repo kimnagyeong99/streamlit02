@@ -1,4 +1,4 @@
- import streamlit as st
+import streamlit as st
 
 # data = [1,2,3]
 url = 'https://naver.com'
